@@ -1,8 +1,9 @@
 # Amazon Sales Analytics Dashboard
-
+![image](https://github.com/user-attachments/assets/3ceeac6a-e9e9-4f70-8d30-32cdd7d2b042)
 ## Overview
 This Power BI dashboard provides comprehensive analytics for Amazon sales data from 2012 to 2014. It offers key insights into order volumes, sales trends, profit distribution, and product category performance.
 
+# INSIGHTS FROM THIS PROJECT
 ## Key Metrics
 - Total Orders: 1,611
 - Total Quantity Sold: 12K
